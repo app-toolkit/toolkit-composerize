@@ -15,6 +15,10 @@ function App() {
     console.log(composeConfig);
   };
 
+  const handleBlur = () => {
+    convert(version);
+  };
+
   const handleChange = (event) => {
     setCommand(event.target.value);
     convert(version);
@@ -53,6 +57,7 @@ function App() {
             id="dockerInput"
             value={command}
             onChange={handleChange}
+            onBlur={handleBlur}
           ></textarea>
         </div>
 
