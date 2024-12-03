@@ -1,0 +1,14 @@
+{
+  "pluginName": "composerize",
+  "version": "0.0.1",
+  "description": "docker run 转 docker compose",
+  "keywords": [
+    "docker",
+    "compose"
+  ],
+  "entry": "index.html",
+  "pluginType": "ui",
+  "mode": "multi",
+  "author": "",
+  "homepage": "https://github.com/app-toolkit/composerize"
+}
