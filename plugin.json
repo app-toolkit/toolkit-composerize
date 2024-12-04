@@ -8,7 +8,7 @@
   ],
   "entry": "index.html",
   "pluginType": "ui",
-  "mode": "multi",
-  "author": "",
+  "mode": "single",
+  "author": "TrumanDu",
   "homepage": "https://github.com/app-toolkit/composerize"
 }
