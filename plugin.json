@@ -6,7 +6,7 @@
     "docker",
     "compose"
   ],
-  "entry": "index.html",
+  "entry": "dist/index.html",
   "pluginType": "ui",
   "mode": "single",
   "author": "TrumanDu",
