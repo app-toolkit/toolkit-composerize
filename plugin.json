@@ -1,6 +1,6 @@
 {
   "pluginName": "composerize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "docker run 转 docker compose",
   "keywords": [
     "docker",
